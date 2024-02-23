@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: UploadImageScreen(), // Set UploadImageScreen as the home
+      home: HomePage(), // Set UploadImageScreen as the home
     );
   }
 }
