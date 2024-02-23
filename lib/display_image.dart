@@ -50,3 +50,4 @@ class DisplayImageScreen extends StatelessWidget {
     );
   }
 }
+
